@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BaiLab03.API/BaiLab03.API.csproj" />
+    <Project Path="src/BaiLab03.Application/BaiLab03.Application.csproj" />
+    <Project Path="src/BaiLab03.Domain/BaiLab03.Domain.csproj" />
+    <Project Path="src/BaiLab03.Infrastructure/BaiLab03.Infrastructure.csproj" />
+  </Folder>
+</Solution>
